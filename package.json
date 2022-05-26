@@ -1,0 +1,8 @@
+{
+  "name": "react-native-bolierplate-ramosht",
+  "version": "0.0.1",
+  "description": "Ramosht's React Native Template",
+  "repository": "git@github.com:ramosht/react-native-bolierplate-ramosht.git",
+  "author": "Guilherme ramos <guilhermeht.ramos@gmail.com>",
+  "license": "MIT"
+}
